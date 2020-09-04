@@ -1,4 +1,4 @@
-name = "tech-template"
+name = "technopark-theme-template"
 description = "Шаблон презентаций для Технопарка Mail.ru"
 tags = ["tech-mail.ru", "park.mail.ru"]
 features = ["shower", "highlight.js", "mathjax"]

@@ -1,4 +1,4 @@
-# tech-template
+# technopark-theme-template
 [Hugo](https://gohugo.io/) тема для презентаций Технопарка
 
 Это шаблон презентации для Технопарка.
@@ -24,12 +24,12 @@
 После этого нужно:
 
  - Поправить название презентации и контактные данные в `config.yaml`;
- - Заменить `themes/tech-template` на ссылку на данный шаблон.
+ - Заменить `themes/technopark-theme-template` на ссылку на данный шаблон.
    
    Например:
 
    ```
-rm themes/tech-template && git submodule add https://github.com/mailcourses/technopark-theme-template.git themes/tech-template
+rm -rf themes/technopark-theme-template && git submodule add https://github.com/mailcourses/technopark-theme-template.git themes/tech-template
 ```
 
 Собрать презентацию можно будет командой `hugo`: презентация появится в каталоге `public`.
