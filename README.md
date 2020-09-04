@@ -15,8 +15,7 @@
 
 ## Пример использования
 
- - Готовые к просмотру слайды: https://bozaro.github.io/tech-db-lectures/
- - Исходный код: https://github.com/bozaro/tech-db-lectures
+- Исходный код: https://github.com/mailcourses/technopark-dbms-lectures
 
 ## Как создать презентацию?
 
@@ -30,7 +29,7 @@
    Например:
 
    ```
-rm themes/tech-template && git submodule add https://github.com/bozaro/tech-template.git themes/tech-template
+rm themes/tech-template && git submodule add https://github.com/mailcourses/technopark-theme-template.git themes/tech-template
 ```
 
 Собрать презентацию можно будет командой `hugo`: презентация появится в каталоге `public`.
