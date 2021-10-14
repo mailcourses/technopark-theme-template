@@ -1,6 +1,6 @@
 name = "technopark-theme-template"
-description = "Шаблон презентаций для Технопарка Mail.ru"
-tags = ["tech-mail.ru", "park.mail.ru"]
+description = "Шаблон презентаций для Технопарка VK"
+tags = ["tech-mail.ru", "park.park.vk.education"]
 features = ["shower", "highlight.js", "mathjax"]
 min_version = 0.17
 
